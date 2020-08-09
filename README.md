@@ -48,8 +48,8 @@ curl -X POST \
 
 ```
  
- ![Screenshot](https://github.com/singh523/file-control-service/resources/postman_test1.png)
+ ![Screenshot](https://github.com/singh523/file-control-service/blob/master/src/test/resources/postman_test1.png)
 
 * Response will be returned with the download URL.
-* Download service is exposed and you can use the download URL to download the file any time. 
+* File Download service endpoint is exposed and you can use the download URL to download the file. 
 
